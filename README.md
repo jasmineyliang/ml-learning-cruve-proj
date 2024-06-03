@@ -21,4 +21,7 @@ Please folow the specifications carefully, such as using the right colors. Other
 4. Finally, you visualize the ground truth and the prediction using `matplotlib.pyplot.plot` as shown in one cell in `1_intro.ipynb`. 
 5. It shall plot two [lines](https://en.wikipedia.org/wiki/Line_chart) in two distinctive colors. For the groundtruth, use BLUE (color code `tab:blue`), and for the prediction, use ORANGE (color code `tab:orange`). Regarding how to change colors in line plots, see the demo in `1_intro.ipynb`. 
 6. For every plot setting else, leave to default settings. 
-7. Use 4-space indentations. No tabs. 
+7. Use 4-space indentations. No tabs.
+
+
+Dr.forrestbao MLClass

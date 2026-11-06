@@ -14,6 +14,12 @@ Original file is located at
 import matplotlib.pyplot as plt
 import numpy as np
 
+
+def test_NN(Ts, Hs, iter):
+    """Placeholder: train a neural network on Ts for iter iterations and return score on Hs."""
+    raise NotImplementedError("test_NN must be defined before calling learning_curve")
+
+
 def learning_curve (Hs,Ts,filename):
   score = np.zeros(40)
   for i in range(0, 40):
